@@ -1,3 +1,27 @@
-site_name: My Docs
+# [Info]
+site_name: Chris' Website #左上角标题
+site_url: https://leeezhy.github.io
+site_author: 李治勇
+site_description: 李治勇的个人网站
+
+# [Navigation]
+nav:
+  - About:
+    - About/index.md
+  - Experience:
+    - About/index.md
+  - ACG:
+    - ACG/index.md
+    - Anime:
+      - Anime Rating: ACG/Anime/anime-rating.md
+    - Manga:
+      - Manga Rating: ACG/Manga/manga-rating.md
+    - Games:
+      - Games Rating: ACG/Games/games-rating.md
+  - Hobbies:
+    - Hobbies/index.md
+
+
+
 theme:
   name: material
