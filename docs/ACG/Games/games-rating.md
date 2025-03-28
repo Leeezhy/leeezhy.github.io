@@ -1,4 +1,4 @@
-# Game Rating
+# Games Rating
 
 ## God Tier
 
@@ -7,6 +7,7 @@
 > An absolutely perfect game
 
 - Overwatch
+
 
 ## Top Tier
 

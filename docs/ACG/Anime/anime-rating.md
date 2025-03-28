@@ -6,6 +6,10 @@
 
 > My first anime, really dragged me into the world of anime.
 
+- とらドラ！
+
+> 
+
 ## Top Tier
 
 ## Mid Tier
